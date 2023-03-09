@@ -39,8 +39,6 @@ public class BubbleSort {
                     numbers[i + 1] = temp;
                     logger.info(Arrays.toString(numbers));
                 }
-
-
             }
 
             if (sorted) {
@@ -48,5 +46,4 @@ public class BubbleSort {
             }
         }
     }
-
 }
